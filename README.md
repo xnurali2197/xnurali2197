@@ -1,12 +1,6 @@
 <div align="center">
 
-  <h1 style="color:#2ecc71; font-weight:700; font-size:42px;">
-    👋 Hi, I'm <a href="https://github.com/xnurali2197" style="color:#27ae60; text-decoration:none;">Nurali Khusinov</a>
-  </h1>
-
-  <p><em>Fullstack Developer</em></p>
-
-
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&color=2ECC71&center=true&vCenter=true&width=700&lines=Hi,+I'm+Nurali+Khusinov;Fullstack+Developer;Welcome+to+my+GitHub+profile" />
 
 </div>
 
